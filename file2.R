@@ -36,3 +36,15 @@ mean(x)
 1:10
 1:1000000
 
+x=c(1,34,5)
+
+version #version of R
+
+Sys.Date() #today's date
+
+getwd() #working directory
+
+methods(class='matrix') #methods available for a class of object
+
+plot(10:100) #basic command to plot
+plot(women)
